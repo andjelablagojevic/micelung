@@ -1,4 +1,4 @@
-This repository contains a partial implementation of the segmentation methodology used in our recent study. The published work focuses on segmenting lung sections in mouse lung images using a U-Net model.
+This repository contains a partial implementation of the segmentation methodology used in our recent study. The published U-Net model is responsible for segmenting lung sections in mouse lung images.
 
 Currently, a subset of the code is available for reference and reproducibility. The complete implementation will be uploaded to this repository after the publication of the associated research paper.
 
